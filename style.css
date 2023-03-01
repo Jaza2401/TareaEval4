@@ -1,0 +1,29 @@
+*{
+    border: 1px solid black;
+    
+}
+
+header{
+    background-color: #DC3545;
+    color: white;
+}
+
+body{
+    background-color: #F5F5F5;
+}
+
+footer{
+    background-color: #EDEFF0;
+}
+
+#Card{
+    background-color: white;
+}
+
+#sideBar{
+    background-color: white;
+}
+
+#GastoIMG{
+    width: 50px;
+}
