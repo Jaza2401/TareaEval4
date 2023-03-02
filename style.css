@@ -2,9 +2,18 @@
     border: 1px solid black;
 } */
 
+.menuheader{
+    background-color: #FAFAFA ;
+    max-height: auto;
+    display: flex;
+}
+
+.logoIcon{
+    width: 45%;
+}
 
 .menuIcon{
-    width: 45%;
+    width: 30%;
 }
 
 .userIcon{
