@@ -1,29 +1,91 @@
-*{
+/*{
     border: 1px solid black;
+} */
+
+
+.menuIcon{
+    width: 45%;
+}
+
+.userIcon{
+    width: 4%;
+}
+
+.rownav{
+    background-color: #FAFAFA ;
+    height: 100%;
+    max-height: auto;
     
 }
 
-header{
+.btnSalir{
+    width: auto !important;
+    color:white !important;
+    background-color: #DC3545 !important;
+    border: white 1px solid !important;
+    border-radius: 5px !important;
+    margin-left: 2%;
+    height: auto !important;
+}
+
+.headerDisplay{
+    color:white;
     background-color: #DC3545;
-    color: white;
+    height: 100% ;
+    width: 100%;
+
 }
 
-body{
-    background-color: #F5F5F5;
+.titleHeaderD{
+    padding-right: 25%;
 }
 
-footer{
-    background-color: #EDEFF0;
+.navIcon{
+    width: 10%;
+    margin-right: 5%;
 }
 
-#Card{
-    background-color: white;
+.sidenav{
+    padding-top: 50%;
+    border: 1px solid #DEE2E6;
 }
 
-#sideBar{
-    background-color: white;
+a:link, a:link:hover{
+    text-decoration: none;
+    color:black;
 }
 
-#GastoIMG{
-    width: 50px;
+p>code{
+    color:black;
+}
+
+.footer{
+    background-color: #FAFAFA ;
+    height: 20% !important;
+}
+
+.formInfo{
+    background-color:#FAFAFA ;
+    padding-top:5% !important;
+    padding-bottom: 5% !important;
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+}
+
+
+.buttonCancelar{
+    background-color:white !important;
+    border-color:#DC3545 !important;
+    color:#DC3545 !important;
+}
+
+.buttonGuardar{
+    margin-left: "50%" !important;
+    background-color:#DC3545!important;
+    border-color:#DC3545 !important;
+    color:white !important;
+}
+
+.nuevoGasto{
+    border:1px solid black;
 }
