@@ -95,9 +95,9 @@ p > code{
     color:#DC3545 !important;
 }
 
-.navbutton>a:link{
+.navbutton>a{
     text-decoration: none;
-    color:black;
+    color:black !important;
     padding: 5%;
 }
 
